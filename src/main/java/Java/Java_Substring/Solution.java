@@ -1,10 +1,6 @@
-package Java_Static_Initializer_Block.Java_Substring;
+package Java.Java_Substring;
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 public class Solution {
 

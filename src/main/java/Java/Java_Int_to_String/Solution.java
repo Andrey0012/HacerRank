@@ -1,7 +1,7 @@
-package Java_Static_Initializer_Block.Java_Int_to_String;
+package Java.Java_Int_to_String;
 
-import java.util.*;
-import java.security.*;
+import java.security.Permission;
+import java.util.Scanner;
 public class Solution {
     public static void main(String[] args) {
 
@@ -11,8 +11,9 @@ public class Solution {
             Scanner in = new Scanner(System.in);
             int n = in .nextInt();
             in.close();
-            String s=  String.valueOf(n); //Вставил преобразование
-
+    //        String s=  String.valueOf(n); //Вставил преобразование
+             String s;
+             s= String.valueOf(n);
             //Write your code here
 
 

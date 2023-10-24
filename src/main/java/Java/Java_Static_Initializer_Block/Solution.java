@@ -1,7 +1,6 @@
-package Java_Static_Initializer_Block;
+package Java.Java_Static_Initializer_Block;
 
-import java.util.*;
-import java.io.*;
+import java.util.Scanner;
 
 public class Solution {
 

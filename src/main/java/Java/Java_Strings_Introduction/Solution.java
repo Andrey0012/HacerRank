@@ -1,7 +1,6 @@
-package Java_Static_Initializer_Block.Java_Strings_Introduction;
+package Java.Java_Strings_Introduction;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution {
 
