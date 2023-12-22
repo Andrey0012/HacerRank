@@ -47,7 +47,6 @@ class Result {
         System.out.println(df.format(ratioZero));
     }
 
-
 }
 
 

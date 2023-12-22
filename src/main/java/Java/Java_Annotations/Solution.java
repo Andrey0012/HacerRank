@@ -1,4 +1,4 @@
-package Java.Java_Annotations2;
+package Java.Java_Annotations;
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 import java.util.*;

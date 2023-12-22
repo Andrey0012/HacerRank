@@ -1,4 +1,4 @@
-package Problem_Solving.A_Very_Big_Sum;
+package Problem_Solving.Birthday_Cake_Candles.A_Very_Big_Sum;
 
 import java.io.*;
 import java.util.List;
