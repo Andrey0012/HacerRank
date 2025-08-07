@@ -74,4 +74,6 @@ public class ATM2 {
     private Map<Integer, Integer> getCurrentCash() {
         return cash;
     }
+
+
 }
